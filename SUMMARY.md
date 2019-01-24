@@ -6,4 +6,5 @@
 * [学习笔记]
     * [linux](study-material/linux.md)
     * [docker](study-material/docker.md)
+    * [kubernetes](study-material/kubernetes.md)
 * [联系老夫](contact.md)
